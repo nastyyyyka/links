@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(199, 142, 142);
+}
+header{
+    width: 50%;
+    display: block;
+    margin: 0 auto ;
+}
+
+a{
+    /* color: blue; */
+    text-decoration: none;
+    font-size: 24px;
+    margin: 0 10px;
+    /* cursor:crosshair; */
+    cursor: progress;
+}
+
+ a:link, a:visited {
+    color: blueviolet;
+ }
+
+ a:active, a:hover {
+    background-color: rgb(21, 166, 25);
+ }
+
+i{
+    margin-right: 5px;
+    color: black;
+
+}
